@@ -6,8 +6,15 @@
     <description>Recent content on Mano svetaine</description>
     <generator>Hugo</generator>
     <language>lt</language>
-    <lastBuildDate>Tue, 13 Oct 2026 12:55:57 +0300</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 13:50:00 +0300</lastBuildDate>
     <atom:link href="https://A-r-m-i-n-a-S.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apie svetainę</title>
+      <link>https://A-r-m-i-n-a-S.github.io/about/</link>
+      <pubDate>Tue, 13 Oct 2026 13:50:00 +0300</pubDate>
+      <guid>https://A-r-m-i-n-a-S.github.io/about/</guid>
+      <description>&lt;p&gt;Esu Arminas, studijuoju VilniusTech. Ši svetainė sukurta laboratorinio darbo metu naudojant Hugo, git ir GitHub Pages.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>A.r.m.i.n.a.S svetainė</title>
       <link>https://A-r-m-i-n-a-S.github.io/posts/pirmas-postas/</link>
